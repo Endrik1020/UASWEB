@@ -9,3 +9,4 @@ Kelas : TI.19.C.1
 https://www.youtube.com/watch?v=6fKTLX9Zz8o
 
 # Link laporan loket 
+https://drive.google.com/file/d/1XBRu9BljVit6yHnWglTpjnMMaKpJ05uB/view?usp=sharing
