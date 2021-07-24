@@ -5,7 +5,7 @@ Nama : Endrik
 NIM : 311910088
 Kelas : TI.19.C.1
 ~~~~
-# Link Video
+# Link Video Demonstrasi Aplikasi Loket 
 https://www.youtube.com/watch?v=6fKTLX9Zz8o
 
 # Link laporan loket 
@@ -754,6 +754,8 @@ class Penjaga extends CI_Controller {
 }
 ~~~
 ![image](https://user-images.githubusercontent.com/81820421/126879927-36c8263c-8e76-49ff-8389-8dff4178db42.png)
+  # Setelah codingan benar dan berhasil . cek untuk aplikasinya apakah berjalan atau tidak .
+  ![image](https://user-images.githubusercontent.com/81820421/126879957-3347d415-c808-484e-944a-5e4f99e3e131.png)
 
 
 
